@@ -1,0 +1,12 @@
+{
+    "name": "luciorosella/libreria1",
+    "description": "Prueba Tecnica",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Lucio Rosella",
+            "email": "lucio.rosella.92@gmail.com"
+        }
+    ],
+    "require": {}
+}
